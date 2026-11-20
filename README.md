@@ -2,7 +2,7 @@
 
 <h3>We find bugs in open-source hardware and software.</h3>
 
-<p><b>125</b> fixes merged upstream &nbsp;·&nbsp; <b>114</b> projects</p>
+<p><b>126</b> fixes merged upstream &nbsp;·&nbsp; <b>115</b> projects</p>
 
 </div>
 
@@ -36,6 +36,7 @@
 | **[enjoy-digital / litejesd204](https://github.com/enjoy-digital/litejesd204)** | Fix conversion data placement with tail bits | <a href="https://github.com/enjoy-digital/litejesd204/pull/11"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg" /><img src="assets/merged.svg" width="16" height="16" alt="merged" /></picture></a> |
 | **[Academy Software Foundation / openexr](https://github.com/AcademySoftwareFoundation/openexr)** | Fix tile chunk extents at reduced-resolution edges | <a href="https://github.com/AcademySoftwareFoundation/openexr/pull/2758"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg" /><img src="assets/merged.svg" width="16" height="16" alt="merged" /></picture></a> |
 | **[Academy Software Foundation / openexr](https://github.com/AcademySoftwareFoundation/openexr)** | Fix B44/B44A raw fallback when compressed size equals raw size | <a href="https://github.com/AcademySoftwareFoundation/openexr/pull/2734"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg" /><img src="assets/merged.svg" width="16" height="16" alt="merged" /></picture></a> |
+| **[OpenXLA / stablehlo](https://github.com/openxla/stablehlo)** | Fix uniform_dequantize lowering for non-f32 expressed types | <a href="https://github.com/openxla/stablehlo/pull/3041"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg" /><img src="assets/merged.svg" width="16" height="16" alt="merged" /></picture></a> |
 | **[RISC-V Software / riscv-tests](https://github.com/riscv-software-src/riscv-tests)** | Initialize the full CBO.ZERO test block | <a href="https://github.com/riscv-software-src/riscv-tests/pull/673"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg" /><img src="assets/merged.svg" width="16" height="16" alt="merged" /></picture></a> |
 | **[RISC-V Software / riscv-tests](https://github.com/riscv-software-src/riscv-tests)** | Add one-way Zfh format-conversion tests | <a href="https://github.com/riscv-software-src/riscv-tests/pull/671"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg" /><img src="assets/merged.svg" width="16" height="16" alt="merged" /></picture></a> |
 | **[radare org / radare2](https://github.com/radareorg/radare2)** | Use the overflow-checked array allocators in RUtil and RBin ##util | <a href="https://github.com/radareorg/radare2/pull/27058"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/merged-dark.svg" /><img src="assets/merged.svg" width="16" height="16" alt="merged" /></picture></a> |
