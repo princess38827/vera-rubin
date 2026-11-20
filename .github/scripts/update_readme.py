@@ -19,7 +19,9 @@ OURS = ('chiplab-research', ME)
 EXTRA_MERGED = [('ceres-solver/ceres-solver', 'https://ceres-solver-review.googlesource.com/c/ceres-solver/+/28880',
                  'Fix covariance truncation for wide Jacobians', '2026-10-16'),
                 ('abseil/abseil-cpp', 'https://github.com/abseil/abseil-cpp/pull/2195',  # landed as commit fb7ad83
-                 'StrFormat: honor zero padding in slow scientific conversions', '2026-10-19')]
+                 'StrFormat: honor zero padding in slow scientific conversions', '2026-10-19'),
+                ('openxla/stablehlo', 'https://github.com/openxla/stablehlo/pull/3041',  # landed as commit 57f1d925
+                 'Fix uniform_dequantize lowering for non-f32 expressed types', '2026-11-11')]
 API = 'https://api.github.com/'
 TOKEN = os.environ.get('GITHUB_TOKEN', '')
 
